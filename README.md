@@ -85,8 +85,8 @@ EduFlow is a modern educational management platform built with Laravel that prov
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url> eduflow
-   cd eduflow
+   git clone <repository-url> eduflow_update
+   cd eduflow_update
    ```
 
 2. **Install PHP dependencies**
