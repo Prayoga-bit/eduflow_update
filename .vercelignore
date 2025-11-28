@@ -1,0 +1,8 @@
+/vendor
+/public/build
+/node_modules
+/.github
+/.git
+/tests
+/.env
+.env.*
